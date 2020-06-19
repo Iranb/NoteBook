@@ -10,4 +10,4 @@ bottleneck简单翻译就是瓶颈层，一般在深度较高的网络（如resn
 
 2. resnet 中bottle neck的 对比
 
-   ![img](bottleneck.assets/20180521111543135)
+   ![img](bottleneck.assets/20180521111543135.jpg)
